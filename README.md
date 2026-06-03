@@ -81,14 +81,6 @@ Web application for agricultural management and services.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilelMekni&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilelMekni&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Current Focus
 
 ✔ Full Stack Development (Angular + Node.js)
