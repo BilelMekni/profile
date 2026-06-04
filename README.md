@@ -17,7 +17,7 @@ Building scalable web applications, REST APIs, and AI-powered solutions.
 - 🌱 Exploring **AI Integration, Cloud Solutions & Microservices**
 - 👯 Open to collaborating on innovative web applications
 - 🎯 Passionate about creating modern, responsive, and high-performance applications
-- 📫 Contact: **your.email@example.com**
+- 📫 Contact: **bilelmekni30@gmail.com**
 - 🌐 Portfolio: **https://portfolio-mekni-bilel.netlify.app/**
 
 ---
